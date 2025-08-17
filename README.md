@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AyeshaYNTHV
+- 👋 Hi, I’m @Ayesha
 - 👀 I’m interested in learning techniques to implement codes in real life scenarios.
 - 🌱 I’m currently enrolled in Bahria University Software Engineering Department.
 - 💞️ I’m looking to collaborate with professionals and companies to learn and achieve in the software line of work.
